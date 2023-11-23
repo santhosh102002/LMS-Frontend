@@ -45,4 +45,8 @@
    @tailwind components;
    @tailwind utilities;
 ```
-5.Then run the server, tailwind should be integrated.....
+5. Then run the server, tailwind should be integrated.....
+6. Add the puglins or dependencies
+```
+   npm i @reduxjs/toolkit react-redux react-router-dom react-icons react-chartjs-2 chart.js daisyui axios react-hot-toast @tailwindcss/line-clamp
+```
